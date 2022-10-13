@@ -63,7 +63,7 @@ exports[`Home component should render home component correctly 1`] = `
     class="c3"
     data-testid="home-description"
   >
-    ReactJS, Typescript, NextJS e Styled-Components
+    React, Next, Styled-Components e TypeScript
   </h2>
   <img
     alt="Figura de desenvolvedor sentado com telas com código a sua frente"
