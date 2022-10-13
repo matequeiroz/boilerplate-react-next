@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loads items eventually teste 1`] = `
+<div>
+  Home2
+</div>
+`;
