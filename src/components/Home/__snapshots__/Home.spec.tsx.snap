@@ -1,7 +1,32 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`loads items eventually teste 1`] = `
-<div>
-  Home2
-</div>
+exports[`Home component should render home component correctly 1`] = `
+<main
+  class="styles__Wrapper-sc-117wb7c-0 dBBhzO"
+>
+  <img
+    alt="Um átomo de cor branca com fundo rosa e a frase 'React Avançado'"
+    class="styles__Logo-sc-117wb7c-1 dRFvdt"
+    data-testid="home-logo"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="styles__Title-sc-117wb7c-3 eIeHoi"
+    data-testid="home-title"
+  >
+    React Avançado
+  </h1>
+  <h2
+    class="styles__Description-sc-117wb7c-4 cYOXqX"
+    data-testid="home-description"
+  >
+    ReactJS, Typescript, NextJS e Styled-Components
+  </h2>
+  <img
+    alt="Figura de desenvolvedor sentado com telas com código a sua frente"
+    class="styles__Illustration-sc-117wb7c-2 kUbtBf"
+    data-testid="home-illustration"
+    src="/img/hero-illustration.svg"
+  />
+</main>
 `;
