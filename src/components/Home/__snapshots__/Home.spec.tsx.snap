@@ -1,30 +1,73 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Home component should render home component correctly 1`] = `
+.c0 {
+  background-color: #06092b;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 3rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 {
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: min(30rem,100%);
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
 <main
-  class="styles__Wrapper-sc-117wb7c-0 dBBhzO"
+  class="c0"
 >
   <img
     alt="Um átomo de cor branca com fundo rosa e a frase 'React Avançado'"
-    class="styles__Logo-sc-117wb7c-1 dRFvdt"
+    class="c1"
     data-testid="home-logo"
     src="/img/logo.svg"
   />
   <h1
-    class="styles__Title-sc-117wb7c-3 eIeHoi"
+    class="c2"
     data-testid="home-title"
   >
     React Avançado
   </h1>
   <h2
-    class="styles__Description-sc-117wb7c-4 cYOXqX"
+    class="c3"
     data-testid="home-description"
   >
     ReactJS, Typescript, NextJS e Styled-Components
   </h2>
   <img
     alt="Figura de desenvolvedor sentado com telas com código a sua frente"
-    class="styles__Illustration-sc-117wb7c-2 kUbtBf"
+    class="c4"
     data-testid="home-illustration"
     src="/img/hero-illustration.svg"
   />
