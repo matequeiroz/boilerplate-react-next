@@ -27,50 +27,38 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [Yarn](https://yarnpkg.com/) (opcional)
 
 ## 🔧 Tecnologias
-<p style="display: flex; align-items: center;">
-  <img alt="ReactJS" ti src="./assets/react.svg" width="20" style="margin-right: 6px" />
-  React
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="NextJS" ti src="./assets/nextjs.svg" width="20" style="margin-right: 6px" />
-  Next
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/typescript.svg" width="20" style="margin-right: 6px" />
-  TypeScript
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="Jest" ti src="./assets/jest.svg" width="20" style="margin-right: 6px" />
-  Jest
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/rtl.svg" width="20" style="margin-right: 6px" />
-  Testing Library
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/storybook.svg" width="20" style="margin-right: 6px" />
-  Storybook
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/styledc.png" width="20" style="margin-right: 6px" />
-  Styled Components
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/babel.svg" width="20" style="margin-right: 6px" />
-  Babel
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/eslint.svg" width="20" style="margin-right: 6px" />
-  Eslint
-</p>
-<p style="display: flex; align-items: center;">
-  <img alt="TypeScript" ti src="./assets/prettier.png" width="20" style="margin-right: 6px" />
-  Prettier
-</p>
-<p style="display: flex; align-items: center;">
-   🐶
-  Husky
-</p>
+<div align="center">
+<figure>
+  <img alt="ReactJS" title="React" src="./assets/react.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="NextJS" title="NextJS" src="./assets/nextjs.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="TypeScript" title="TypeScript" src="./assets/typescript.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Storybook" title="Storybook" src="./assets/storybook.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Styled Components" title="Styled Components" src="./assets/styledc.png" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Testing Library" title="Testing Library" src="./assets/rtl.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Jest" title="Jest" src="./assets/jest.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Eslint" title="Eslint" src="./assets/eslint.svg" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Prettier" title="Prettier" src="./assets/prettier.png" width="50" style="margin-right: 6px" />
+</figure>
+<figure>
+  <img alt="Babel" title="Babel" src="./assets/babel.svg" width="50" style="margin-right: 6px" />
+</figure>
+</div>
 
 ## 📥 Usando o boilerplate
 
